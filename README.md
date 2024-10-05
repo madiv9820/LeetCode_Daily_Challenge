@@ -16,7 +16,7 @@ The repository is organized by date and problem. Each solution file follows this
 
 ### Example
 
-- `2024-01-01-two-sum.py` - Solution for the "Two Sum" problem.
+- `2024_01_01--23_two_sum.py` - Solution for the "Two Sum" problem.
 
 ## Challenges
 
@@ -40,7 +40,7 @@ To run the solutions, follow these steps:
 2. **Navigate to the directory:**
 
     ```bash
-    cd "[date]-[problem]"
+    cd "[date]--[problem]"
     ```
 
 3. **Run the desired solution:**
