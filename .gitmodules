@@ -4,3 +4,6 @@
 [submodule "06_10_2024--1813_Sentence_Similarity_III"]
 	path = 06_10_2024--1813_Sentence_Similarity_III
 	url = https://github.com/madiv9820/06_10_2024--1813_Sentence_Similarity_III.git
+[submodule "07-10-2024--2696_Minimum_String_Length_After_Removing_Substrings"]
+	path = 07-10-2024--2696_Minimum_String_Length_After_Removing_Substrings
+	url = https://github.com/madiv9820/07-10-2024--2696_Minimum_String_Length_After_Removing_Substrings.git
