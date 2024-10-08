@@ -7,3 +7,6 @@
 [submodule "07-10-2024--2696_Minimum_String_Length_After_Removing_Substrings"]
 	path = 07-10-2024--2696_Minimum_String_Length_After_Removing_Substrings
 	url = https://github.com/madiv9820/07-10-2024--2696_Minimum_String_Length_After_Removing_Substrings.git
+[submodule "08_10_2024--1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced"]
+	path = 08_10_2024--1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced
+	url = https://github.com/madiv9820/08_10_2024--1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.git
