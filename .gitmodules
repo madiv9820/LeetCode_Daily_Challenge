@@ -13,3 +13,6 @@
 [submodule "09_10_2024--921_Minimum_Add_to_Make_Parentheses_Valid"]
 	path = 09_10_2024--921_Minimum_Add_to_Make_Parentheses_Valid
 	url = https://github.com/madiv9820/09_10_2024--921_Minimum_Add_to_Make_Parentheses_Valid.git
+[submodule "10_10_2024--962_Maximum_Width_Ramp"]
+	path = 10_10_2024--962_Maximum_Width_Ramp
+	url = https://github.com/madiv9820/10_10_2024--962_Maximum_Width_Ramp.git
