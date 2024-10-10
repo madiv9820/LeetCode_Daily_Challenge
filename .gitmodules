@@ -10,3 +10,6 @@
 [submodule "08_10_2024--1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced"]
 	path = 08_10_2024--1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced
 	url = https://github.com/madiv9820/08_10_2024--1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.git
+[submodule "09_10_2024--921_Minimum_Add_to_Make_Parentheses_Valid"]
+	path = 09_10_2024--921_Minimum_Add_to_Make_Parentheses_Valid
+	url = https://github.com/madiv9820/09_10_2024--921_Minimum_Add_to_Make_Parentheses_Valid.git
