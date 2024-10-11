@@ -16,3 +16,6 @@
 [submodule "10_10_2024--962_Maximum_Width_Ramp"]
 	path = 10_10_2024--962_Maximum_Width_Ramp
 	url = https://github.com/madiv9820/10_10_2024--962_Maximum_Width_Ramp.git
+[submodule "11_10_2024--1942_The_Number_of_the_Smallest_Unoccupied_Chair"]
+	path = 11_10_2024--1942_The_Number_of_the_Smallest_Unoccupied_Chair
+	url = https://github.com/madiv9820/11_10_2024--1942_The_Number_of_the_Smallest_Unoccupied_Chair.git
