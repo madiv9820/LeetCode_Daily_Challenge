@@ -19,3 +19,6 @@
 [submodule "11_10_2024--1942_The_Number_of_the_Smallest_Unoccupied_Chair"]
 	path = 11_10_2024--1942_The_Number_of_the_Smallest_Unoccupied_Chair
 	url = https://github.com/madiv9820/11_10_2024--1942_The_Number_of_the_Smallest_Unoccupied_Chair.git
+[submodule "12_10_2024--2406_Divide_Intervals_Into_Minimum_Number_of_Groups"]
+	path = 12_10_2024--2406_Divide_Intervals_Into_Minimum_Number_of_Groups
+	url = https://github.com/madiv9820/12_10_2024--2406_Divide_Intervals_Into_Minimum_Number_of_Groups.git
