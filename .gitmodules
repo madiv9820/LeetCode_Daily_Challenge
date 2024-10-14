@@ -22,3 +22,6 @@
 [submodule "12_10_2024--2406_Divide_Intervals_Into_Minimum_Number_of_Groups"]
 	path = 12_10_2024--2406_Divide_Intervals_Into_Minimum_Number_of_Groups
 	url = https://github.com/madiv9820/12_10_2024--2406_Divide_Intervals_Into_Minimum_Number_of_Groups.git
+[submodule "14_10_2024--2530_Maximal_Score_After_Applying_K_Operations"]
+	path = 14_10_2024--2530_Maximal_Score_After_Applying_K_Operations
+	url = https://github.com/madiv9820/14_10_2024--2530_Maximal_Score_After_Applying_K_Operations.git
