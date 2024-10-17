@@ -31,3 +31,6 @@
 [submodule "16_10_2024--1405_Longest_Happy_String"]
 	path = 16_10_2024--1405_Longest_Happy_String
 	url = https://github.com/madiv9820/16_10_2024--1405_Longest_Happy_String.git
+[submodule "13_10_2024--632_Smallest_Range_Covering_Elements_from_K_Lists"]
+	path = 13_10_2024--632_Smallest_Range_Covering_Elements_from_K_Lists
+	url = https://github.com/madiv9820/13_10_2024--632_Smallest_Range_Covering_Elements_from_K_Lists.git
