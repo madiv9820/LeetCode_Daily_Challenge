@@ -28,3 +28,6 @@
 [submodule "15_10_2024--2938_Separate_Black_and_White_Balls"]
 	path = 15_10_2024--2938_Separate_Black_and_White_Balls
 	url = https://github.com/madiv9820/15_10_2024--2938_Separate_Black_and_White_Balls.git
+[submodule "16_10_2024--1405_Longest_Happy_String"]
+	path = 16_10_2024--1405_Longest_Happy_String
+	url = https://github.com/madiv9820/16_10_2024--1405_Longest_Happy_String.git
