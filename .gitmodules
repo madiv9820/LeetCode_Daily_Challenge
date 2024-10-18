@@ -37,3 +37,6 @@
 [submodule "17_10_2024--670_Maximum_Swap"]
 	path = 17_10_2024--670_Maximum_Swap
 	url = https://github.com/madiv9820/17_10_2024--670_Maximum_Swap.git
+[submodule "18_10_2024--2044_Count_Number_of_Maximum_Bitwise_OR_Subsets"]
+	path = 18_10_2024--2044_Count_Number_of_Maximum_Bitwise_OR_Subsets
+	url = https://github.com/madiv9820/18_10_2024--2044_Count_Number_of_Maximum_Bitwise_OR_Subsets.git
