@@ -40,3 +40,6 @@
 [submodule "18_10_2024--2044_Count_Number_of_Maximum_Bitwise_OR_Subsets"]
 	path = 18_10_2024--2044_Count_Number_of_Maximum_Bitwise_OR_Subsets
 	url = https://github.com/madiv9820/18_10_2024--2044_Count_Number_of_Maximum_Bitwise_OR_Subsets.git
+[submodule "19_10_2024--1545_Find_Kth_Bit_in_Nth_Binary_String"]
+	path = 19_10_2024--1545_Find_Kth_Bit_in_Nth_Binary_String
+	url = https://github.com/madiv9820/19_10_2024--1545_Find_Kth_Bit_in_Nth_Binary_String.git
