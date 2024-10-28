@@ -43,3 +43,6 @@
 [submodule "19_10_2024--1545_Find_Kth_Bit_in_Nth_Binary_String"]
 	path = 19_10_2024--1545_Find_Kth_Bit_in_Nth_Binary_String
 	url = https://github.com/madiv9820/19_10_2024--1545_Find_Kth_Bit_in_Nth_Binary_String.git
+[submodule "28_10_2024--2501_Longest_Square_Streak_in_an_Array"]
+	path = 28_10_2024--2501_Longest_Square_Streak_in_an_Array
+	url = https://github.com/madiv9820/28_10_2024--2501_Longest_Square_Streak_in_an_Array.git
