@@ -46,3 +46,6 @@
 [submodule "28_10_2024--2501_Longest_Square_Streak_in_an_Array"]
 	path = 28_10_2024--2501_Longest_Square_Streak_in_an_Array
 	url = https://github.com/madiv9820/28_10_2024--2501_Longest_Square_Streak_in_an_Array.git
+[submodule "29_10_2024--2684_Maximum_Number_of_Moves_in_a_Grid"]
+	path = 29_10_2024--2684_Maximum_Number_of_Moves_in_a_Grid
+	url = https://github.com/madiv9820/29_10_2024--2684_Maximum_Number_of_Moves_in_a_Grid.git
