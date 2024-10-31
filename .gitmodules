@@ -52,3 +52,6 @@
 [submodule "30_10_2024--1671_Minimum_Number_of_Removals_to_Make_Mountain_Array"]
 	path = 30_10_2024--1671_Minimum_Number_of_Removals_to_Make_Mountain_Array
 	url = https://github.com/madiv9820/30_10_2024--1671_Minimum_Number_of_Removals_to_Make_Mountain_Array.git
+[submodule "31_10_2024--2463_Minimum_Total_Distance_Traveled"]
+	path = 31_10_2024--2463_Minimum_Total_Distance_Traveled
+	url = https://github.com/madiv9820/31_10_2024--2463_Minimum_Total_Distance_Traveled.git
