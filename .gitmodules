@@ -61,3 +61,6 @@
 [submodule "02_11_2024--2490_Circular_Sentence"]
 	path = 02_11_2024--2490_Circular_Sentence
 	url = https://github.com/madiv9820/02_11_2024--2490_Circular_Sentence.git
+[submodule "03_11_2024--796_Rotate_String"]
+	path = 03_11_2024--796_Rotate_String
+	url = https://github.com/madiv9820/03_11_2024--796_Rotate_String.git
