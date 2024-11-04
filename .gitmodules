@@ -64,3 +64,6 @@
 [submodule "03_11_2024--796_Rotate_String"]
 	path = 03_11_2024--796_Rotate_String
 	url = https://github.com/madiv9820/03_11_2024--796_Rotate_String.git
+[submodule "04_11_2024--3163_String_Compression_III"]
+	path = 04_11_2024--3163_String_Compression_III
+	url = https://github.com/madiv9820/04_11_2024--3163_String_Compression_III.git
