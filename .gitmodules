@@ -70,3 +70,6 @@
 [submodule "05_11_2024--2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful"]
 	path = 05_11_2024--2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful
 	url = https://github.com/madiv9820/05_11_2024--2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.git
+[submodule "06_11_2024--3011_Find_if_Array_Can_Be_Sorted"]
+	path = 06_11_2024--3011_Find_if_Array_Can_Be_Sorted
+	url = https://github.com/madiv9820/06_11_2024--3011_Find_if_Array_Can_Be_Sorted.git
