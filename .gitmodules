@@ -73,3 +73,9 @@
 [submodule "06_11_2024--3011_Find_if_Array_Can_Be_Sorted"]
 	path = 06_11_2024--3011_Find_if_Array_Can_Be_Sorted
 	url = https://github.com/madiv9820/06_11_2024--3011_Find_if_Array_Can_Be_Sorted.git
+[submodule "07_11_2024--2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero"]
+	path = 07_11_2024--2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero
+	url = https://github.com/madiv9820/07_11_2024--2275_Largest_Combination_With_Bitwise_AND_Greater_Than_Zero.git
+[submodule "12_11_2024--2070_Most_Beautiful_Item_for_Each_Query"]
+	path = 12_11_2024--2070_Most_Beautiful_Item_for_Each_Query
+	url = https://github.com/madiv9820/12_11_2024--2070_Most_Beautiful_Item_for_Each_Query.git
