@@ -82,3 +82,6 @@
 [submodule "13_11_2024--2563_Count_the_Number_of_Fair_Pairs"]
 	path = 13_11_2024--2563_Count_the_Number_of_Fair_Pairs
 	url = https://github.com/madiv9820/13_11_2024--2563_Count_the_Number_of_Fair_Pairs.git
+[submodule "14_11_2024--2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store"]
+	path = 14_11_2024--2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store
+	url = https://github.com/madiv9820/14_11_2024--2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.git
