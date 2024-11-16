@@ -85,3 +85,6 @@
 [submodule "14_11_2024--2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store"]
 	path = 14_11_2024--2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store
 	url = https://github.com/madiv9820/14_11_2024--2064_Minimized_Maximum_of_Products_Distributed_to_Any_Store.git
+[submodule "15_11_2024--1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted"]
+	path = 15_11_2024--1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted
+	url = https://github.com/madiv9820/15_11_2024--1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.git
