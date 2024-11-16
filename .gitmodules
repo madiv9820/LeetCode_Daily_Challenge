@@ -88,3 +88,6 @@
 [submodule "15_11_2024--1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted"]
 	path = 15_11_2024--1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted
 	url = https://github.com/madiv9820/15_11_2024--1574_Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.git
+[submodule "16_11_2024--3254_Find_the_Power_of_K-Size_Subarrays_I"]
+	path = 16_11_2024--3254_Find_the_Power_of_K-Size_Subarrays_I
+	url = https://github.com/madiv9820/16_11_2024--3254_Find_the_Power_of_K-Size_Subarrays_I.git
