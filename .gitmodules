@@ -94,3 +94,6 @@
 [submodule "17_11_2024--862_Shortest_Subarray_with_Sum_at_Least_K"]
 	path = 17_11_2024--862_Shortest_Subarray_with_Sum_at_Least_K
 	url = https://github.com/madiv9820/17_11_2024--862_Shortest_Subarray_with_Sum_at_Least_K.git
+[submodule "18_11_2024--1652_Defuse_the_Bomb"]
+	path = 18_11_2024--1652_Defuse_the_Bomb
+	url = https://github.com/madiv9820/18_11_2024--1652_Defuse_the_Bomb.git
