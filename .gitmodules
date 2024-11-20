@@ -97,3 +97,9 @@
 [submodule "18_11_2024--1652_Defuse_the_Bomb"]
 	path = 18_11_2024--1652_Defuse_the_Bomb
 	url = https://github.com/madiv9820/18_11_2024--1652_Defuse_the_Bomb.git
+[submodule "19_11_2024--2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K"]
+	path = 19_11_2024--2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K
+	url = https://github.com/madiv9820/19_11_2024--2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K.git
+[submodule "20_11_2024--2516_Take_K_of_Each_Character_From_Left_and_Right"]
+	path = 20_11_2024--2516_Take_K_of_Each_Character_From_Left_and_Right
+	url = https://github.com/madiv9820/20_11_2024--2516_Take_K_of_Each_Character_From_Left_and_Right.git
