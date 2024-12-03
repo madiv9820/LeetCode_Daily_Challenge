@@ -103,3 +103,9 @@
 [submodule "20_11_2024--2516_Take_K_of_Each_Character_From_Left_and_Right"]
 	path = 20_11_2024--2516_Take_K_of_Each_Character_From_Left_and_Right
 	url = https://github.com/madiv9820/20_11_2024--2516_Take_K_of_Each_Character_From_Left_and_Right.git
+[submodule "21_11_2024--2257_Count_Unguarded_Cells_in_the_Grid"]
+	path = 21_11_2024--2257_Count_Unguarded_Cells_in_the_Grid
+	url = https://github.com/madiv9820/21_11_2024--2257_Count_Unguarded_Cells_in_the_Grid.git
+[submodule "01_12_2024--1346_Check_If_N_and_Its_Double_Exist"]
+	path = 01_12_2024--1346_Check_If_N_and_Its_Double_Exist
+	url = https://github.com/madiv9820/01_12_2024--1346_Check_If_N_and_Its_Double_Exist.git
