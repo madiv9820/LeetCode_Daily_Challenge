@@ -109,3 +109,6 @@
 [submodule "01_12_2024--1346_Check_If_N_and_Its_Double_Exist"]
 	path = 01_12_2024--1346_Check_If_N_and_Its_Double_Exist
 	url = https://github.com/madiv9820/01_12_2024--1346_Check_If_N_and_Its_Double_Exist.git
+[submodule "02_12_2024--1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence"]
+	path = 02_12_2024--1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence
+	url = https://github.com/madiv9820/02_12_2024--1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.git
