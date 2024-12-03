@@ -112,3 +112,6 @@
 [submodule "02_12_2024--1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence"]
 	path = 02_12_2024--1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence
 	url = https://github.com/madiv9820/02_12_2024--1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.git
+[submodule "03_12_2024--2109_Adding_Spaces_to_a_String"]
+	path = 03_12_2024--2109_Adding_Spaces_to_a_String
+	url = https://github.com/madiv9820/03_12_2024--2109_Adding_Spaces_to_a_String.git
