@@ -115,3 +115,6 @@
 [submodule "03_12_2024--2109_Adding_Spaces_to_a_String"]
 	path = 03_12_2024--2109_Adding_Spaces_to_a_String
 	url = https://github.com/madiv9820/03_12_2024--2109_Adding_Spaces_to_a_String.git
+[submodule "04_12_2024--2825_Make_String_a_Subsequence_Using_Cyclic_Increments"]
+	path = 04_12_2024--2825_Make_String_a_Subsequence_Using_Cyclic_Increments
+	url = https://github.com/madiv9820/04_12_2024--2825_Make_String_a_Subsequence_Using_Cyclic_Increments.git
