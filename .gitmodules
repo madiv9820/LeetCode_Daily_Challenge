@@ -118,3 +118,9 @@
 [submodule "04_12_2024--2825_Make_String_a_Subsequence_Using_Cyclic_Increments"]
 	path = 04_12_2024--2825_Make_String_a_Subsequence_Using_Cyclic_Increments
 	url = https://github.com/madiv9820/04_12_2024--2825_Make_String_a_Subsequence_Using_Cyclic_Increments.git
+[submodule "05_12_2024--2337_Move_Pieces_to_Obtain_a_String"]
+	path = 05_12_2024--2337_Move_Pieces_to_Obtain_a_String
+	url = https://github.com/madiv9820/05_12_2024--2337_Move_Pieces_to_Obtain_a_String.git
+[submodule "09_12_2024--3152_Special_Array_II"]
+	path = 09_12_2024--3152_Special_Array_II
+	url = https://github.com/madiv9820/09_12_2024--3152_Special_Array_II.git
