@@ -124,3 +124,6 @@
 [submodule "09_12_2024--3152_Special_Array_II"]
 	path = 09_12_2024--3152_Special_Array_II
 	url = https://github.com/madiv9820/09_12_2024--3152_Special_Array_II.git
+[submodule "12_12_2024--2558_Take_Gifts_From_the_Richest_Pile"]
+	path = 12_12_2024--2558_Take_Gifts_From_the_Richest_Pile
+	url = https://github.com/madiv9820/12_12_2024--2558_Take_Gifts_From_the_Richest_Pile.git
