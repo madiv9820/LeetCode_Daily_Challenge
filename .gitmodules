@@ -130,3 +130,9 @@
 [submodule "13_12_2024--2593_Find_Score_of_an_Array_After_Marking_All_Elements"]
 	path = 13_12_2024--2593_Find_Score_of_an_Array_After_Marking_All_Elements
 	url = https://github.com/madiv9820/13_12_2024--2593_Find_Score_of_an_Array_After_Marking_All_Elements.git
+[submodule "14_12_2024--2762_Continuous_Subarrays"]
+	path = 14_12_2024--2762_Continuous_Subarrays
+	url = https://github.com/madiv9820/14_12_2024--2762_Continuous_Subarrays.git
+[submodule "16_12_2024--3264_Final_Array_State_After_K_Multiplication_Operations_I"]
+	path = 16_12_2024--3264_Final_Array_State_After_K_Multiplication_Operations_I
+	url = https://github.com/madiv9820/16_12_2024--3264_Final_Array_State_After_K_Multiplication_Operations_I.git
