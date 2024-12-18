@@ -136,3 +136,6 @@
 [submodule "16_12_2024--3264_Final_Array_State_After_K_Multiplication_Operations_I"]
 	path = 16_12_2024--3264_Final_Array_State_After_K_Multiplication_Operations_I
 	url = https://github.com/madiv9820/16_12_2024--3264_Final_Array_State_After_K_Multiplication_Operations_I.git
+[submodule "17_12_2024--2182_Construct_String_With_Repeat_Limit"]
+	path = 17_12_2024--2182_Construct_String_With_Repeat_Limit
+	url = https://github.com/madiv9820/17_12_2024--2182_Construct_String_With_Repeat_Limit.git
