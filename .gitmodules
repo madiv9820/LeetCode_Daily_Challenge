@@ -148,3 +148,12 @@
 [submodule "20_12_2024--2415_Reverse_Odd_Levels_of_Binary_Tree"]
 	path = 20_12_2024--2415_Reverse_Odd_Levels_of_Binary_Tree
 	url = https://github.com/madiv9820/20_12_2024--2415_Reverse_Odd_Levels_of_Binary_Tree.git
+[submodule "21_12_2024--2872_Maximum_Number_of_K-Divisible_Components"]
+	path = 21_12_2024--2872_Maximum_Number_of_K-Divisible_Components
+	url = https://github.com/madiv9820/21_12_2024--2872_Maximum_Number_of_K-Divisible_Components.git
+[submodule "23_12_2024--2471_Minimum_Number_of_Operations_to_Sort_a_Binary_Tree_by_Level"]
+	path = 23_12_2024--2471_Minimum_Number_of_Operations_to_Sort_a_Binary_Tree_by_Level
+	url = https://github.com/madiv9820/23_12_2024--2471_Minimum_Number_of_Operations_to_Sort_a_Binary_Tree_by_Level.git
+[submodule "31_12_2024--983_Minimum_Cost_For_Tickets"]
+	path = 31_12_2024--983_Minimum_Cost_For_Tickets
+	url = https://github.com/madiv9820/31_12_2024--983_Minimum_Cost_For_Tickets.git
