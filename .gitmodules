@@ -157,3 +157,6 @@
 [submodule "31_12_2024--983_Minimum_Cost_For_Tickets"]
 	path = 31_12_2024--983_Minimum_Cost_For_Tickets
 	url = https://github.com/madiv9820/31_12_2024--983_Minimum_Cost_For_Tickets.git
+[submodule "01_01_2025--1422_Maximum_Score_After_Splitting_a_String"]
+	path = 01_01_2025--1422_Maximum_Score_After_Splitting_a_String
+	url = https://github.com/madiv9820/01_01_2025--1422_Maximum_Score_After_Splitting_a_String.git
