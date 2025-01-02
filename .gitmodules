@@ -160,3 +160,6 @@
 [submodule "01_01_2025--1422_Maximum_Score_After_Splitting_a_String"]
 	path = 01_01_2025--1422_Maximum_Score_After_Splitting_a_String
 	url = https://github.com/madiv9820/01_01_2025--1422_Maximum_Score_After_Splitting_a_String.git
+[submodule "02_01_2025--2559_Count_Vowel_Strings_in_Ranges"]
+	path = 02_01_2025--2559_Count_Vowel_Strings_in_Ranges
+	url = https://github.com/madiv9820/02_01_2025--2559_Count_Vowel_Strings_in_Ranges.git
