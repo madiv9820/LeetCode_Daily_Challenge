@@ -163,3 +163,6 @@
 [submodule "02_01_2025--2559_Count_Vowel_Strings_in_Ranges"]
 	path = 02_01_2025--2559_Count_Vowel_Strings_in_Ranges
 	url = https://github.com/madiv9820/02_01_2025--2559_Count_Vowel_Strings_in_Ranges.git
+[submodule "03_01_2025--2270_Number_of_Ways_to_Split_Array"]
+	path = 03_01_2025--2270_Number_of_Ways_to_Split_Array
+	url = https://github.com/madiv9820/03_01_2025--2270_Number_of_Ways_to_Split_Array.git
