@@ -166,3 +166,6 @@
 [submodule "03_01_2025--2270_Number_of_Ways_to_Split_Array"]
 	path = 03_01_2025--2270_Number_of_Ways_to_Split_Array
 	url = https://github.com/madiv9820/03_01_2025--2270_Number_of_Ways_to_Split_Array.git
+[submodule "04_01_2025--1930_Unique_Length_3_Palindromic_Subsequences"]
+	path = 04_01_2025--1930_Unique_Length_3_Palindromic_Subsequences
+	url = https://github.com/madiv9820/04_01_2025--1930_Unique_Length_3_Palindromic_Subsequences.git
