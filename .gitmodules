@@ -169,3 +169,9 @@
 [submodule "04_01_2025--1930_Unique_Length_3_Palindromic_Subsequences"]
 	path = 04_01_2025--1930_Unique_Length_3_Palindromic_Subsequences
 	url = https://github.com/madiv9820/04_01_2025--1930_Unique_Length_3_Palindromic_Subsequences.git
+[submodule "05_01_2025--2381_Shifting_Letters_II"]
+	path = 05_01_2025--2381_Shifting_Letters_II
+	url = https://github.com/madiv9820/05_01_2025--2381_Shifting_Letters_II.git
+[submodule "11_01_2025--1400_Construct_K_Palindrome_Strings"]
+	path = 11_01_2025--1400_Construct_K_Palindrome_Strings
+	url = https://github.com/madiv9820/11_01_2025--1400_Construct_K_Palindrome_Strings.git
