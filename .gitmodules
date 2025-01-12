@@ -175,3 +175,9 @@
 [submodule "11_01_2025--1400_Construct_K_Palindrome_Strings"]
 	path = 11_01_2025--1400_Construct_K_Palindrome_Strings
 	url = https://github.com/madiv9820/11_01_2025--1400_Construct_K_Palindrome_Strings.git
+[submodule "06_01_2025--1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box"]
+	path = 06_01_2025--1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box
+	url = https://github.com/madiv9820/06_01_2025--1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.git
+[submodule "12_01_2025--2116_Check_if_a_Parentheses_String_Can_Be_Valid"]
+	path = 12_01_2025--2116_Check_if_a_Parentheses_String_Can_Be_Valid
+	url = https://github.com/madiv9820/12_01_2025--2116_Check_if_a_Parentheses_String_Can_Be_Valid.git
