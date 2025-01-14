@@ -181,3 +181,9 @@
 [submodule "12_01_2025--2116_Check_if_a_Parentheses_String_Can_Be_Valid"]
 	path = 12_01_2025--2116_Check_if_a_Parentheses_String_Can_Be_Valid
 	url = https://github.com/madiv9820/12_01_2025--2116_Check_if_a_Parentheses_String_Can_Be_Valid.git
+[submodule "13_01_2025--3223_Minimum_Length_of_String_After_Operations"]
+	path = 13_01_2025--3223_Minimum_Length_of_String_After_Operations
+	url = https://github.com/madiv9820/13_01_2025--3223_Minimum_Length_of_String_After_Operations.git
+[submodule "15_01_2025--2657_Find_the_Prefix_Common_Array_of_Two_Arrays"]
+	path = 15_01_2025--2657_Find_the_Prefix_Common_Array_of_Two_Arrays
+	url = https://github.com/madiv9820/15_01_2025--2657_Find_the_Prefix_Common_Array_of_Two_Arrays.git
