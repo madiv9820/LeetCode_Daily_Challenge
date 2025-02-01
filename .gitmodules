@@ -187,3 +187,9 @@
 [submodule "15_01_2025--2657_Find_the_Prefix_Common_Array_of_Two_Arrays"]
 	path = 15_01_2025--2657_Find_the_Prefix_Common_Array_of_Two_Arrays
 	url = https://github.com/madiv9820/15_01_2025--2657_Find_the_Prefix_Common_Array_of_Two_Arrays.git
+[submodule "27_01_2025--1462_Course_Schedule_IV"]
+	path = 27_01_2025--1462_Course_Schedule_IV
+	url = https://github.com/madiv9820/27_01_2025--1462_Course_Schedule_IV.git
+[submodule "01_02_2025--3151_Special_Array_I"]
+	path = 01_02_2025--3151_Special_Array_I
+	url = https://github.com/madiv9820/01_02_2025--3151_Special_Array_I.git
