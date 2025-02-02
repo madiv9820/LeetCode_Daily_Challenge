@@ -193,3 +193,6 @@
 [submodule "01_02_2025--3151_Special_Array_I"]
 	path = 01_02_2025--3151_Special_Array_I
 	url = https://github.com/madiv9820/01_02_2025--3151_Special_Array_I.git
+[submodule "02_02_2025--1752_Check_if_Array_Is_Sorted_and_Rotated"]
+	path = 02_02_2025--1752_Check_if_Array_Is_Sorted_and_Rotated
+	url = https://github.com/madiv9820/02_02_2025--1752_Check_if_Array_Is_Sorted_and_Rotated.git
