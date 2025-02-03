@@ -196,3 +196,6 @@
 [submodule "02_02_2025--1752_Check_if_Array_Is_Sorted_and_Rotated"]
 	path = 02_02_2025--1752_Check_if_Array_Is_Sorted_and_Rotated
 	url = https://github.com/madiv9820/02_02_2025--1752_Check_if_Array_Is_Sorted_and_Rotated.git
+[submodule "03_02_2025--3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray"]
+	path = 03_02_2025--3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray
+	url = https://github.com/madiv9820/03_02_2025--3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.git
