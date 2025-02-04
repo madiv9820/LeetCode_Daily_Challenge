@@ -199,3 +199,6 @@
 [submodule "03_02_2025--3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray"]
 	path = 03_02_2025--3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray
 	url = https://github.com/madiv9820/03_02_2025--3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.git
+[submodule "04_02_2025--1800_Maximum_Ascending_Subarray_Sum"]
+	path = 04_02_2025--1800_Maximum_Ascending_Subarray_Sum
+	url = https://github.com/madiv9820/04_02_2025--1800_Maximum_Ascending_Subarray_Sum.git
