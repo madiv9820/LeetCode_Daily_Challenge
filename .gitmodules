@@ -202,3 +202,6 @@
 [submodule "04_02_2025--1800_Maximum_Ascending_Subarray_Sum"]
 	path = 04_02_2025--1800_Maximum_Ascending_Subarray_Sum
 	url = https://github.com/madiv9820/04_02_2025--1800_Maximum_Ascending_Subarray_Sum.git
+[submodule "05_02_2025--1790_Check_if_One_String_Swap_Can_Make_Strings_Equal"]
+	path = 05_02_2025--1790_Check_if_One_String_Swap_Can_Make_Strings_Equal
+	url = https://github.com/madiv9820/05_02_2025--1790_Check_if_One_String_Swap_Can_Make_Strings_Equal.git
