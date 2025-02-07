@@ -208,3 +208,6 @@
 [submodule "06_02_2025--1726_Tuple_with_Same_Product"]
 	path = 06_02_2025--1726_Tuple_with_Same_Product
 	url = https://github.com/madiv9820/06_02_2025--1726_Tuple_with_Same_Product.git
+[submodule "07_02_2025--3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls"]
+	path = 07_02_2025--3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls
+	url = https://github.com/madiv9820/07_02_2025--3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.git
