@@ -214,3 +214,6 @@
 [submodule "08_02_2025--2349_Design_a_Number_Container_System"]
 	path = 08_02_2025--2349_Design_a_Number_Container_System
 	url = https://github.com/madiv9820/08_02_2025--2349_Design_a_Number_Container_System.git
+[submodule "09_02_2025--2364_Count_Number_of_Bad_Pairs"]
+	path = 09_02_2025--2364_Count_Number_of_Bad_Pairs
+	url = https://github.com/madiv9820/09_02_2025--2364_Count_Number_of_Bad_Pairs.git
