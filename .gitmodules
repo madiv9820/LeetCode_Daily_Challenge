@@ -217,3 +217,6 @@
 [submodule "09_02_2025--2364_Count_Number_of_Bad_Pairs"]
 	path = 09_02_2025--2364_Count_Number_of_Bad_Pairs
 	url = https://github.com/madiv9820/09_02_2025--2364_Count_Number_of_Bad_Pairs.git
+[submodule "10_02_2025--3174_Clear_Digits"]
+	path = 10_02_2025--3174_Clear_Digits
+	url = https://github.com/madiv9820/10_02_2025--3174_Clear_Digits.git
