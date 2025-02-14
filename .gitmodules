@@ -223,3 +223,6 @@
 [submodule "13_02_2025--3066_Minimum_Operations_to_Exceed_Threshold_Value_II"]
 	path = 13_02_2025--3066_Minimum_Operations_to_Exceed_Threshold_Value_II
 	url = https://github.com/madiv9820/13_02_2025--3066_Minimum_Operations_to_Exceed_Threshold_Value_II.git
+[submodule "14_02_2025--1352_Product_of_the_Last_K_Numbers"]
+	path = 14_02_2025--1352_Product_of_the_Last_K_Numbers
+	url = https://github.com/madiv9820/14_02_2025--1352_Product_of_the_Last_K_Numbers.git
